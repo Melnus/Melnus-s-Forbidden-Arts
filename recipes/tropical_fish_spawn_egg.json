@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:tropical_fish_spawn_egg" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:cod_spawn_egg" },
+      { "item": "minecraft:nether_wart" }
+    ],
+    "result": { "item": "minecraft:tropical_fish_spawn_egg", "count": 2 }
+  }
+}

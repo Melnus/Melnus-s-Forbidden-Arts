@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:ominous_bottle" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:nether_wart" },
+      { "item": "minecraft:rotten_flesh" },
+      { "item": "minecraft:emerald" }
+    ],
+    "result": { "item": "minecraft:ominous_bottle", "count": 1 }
+  }
+}

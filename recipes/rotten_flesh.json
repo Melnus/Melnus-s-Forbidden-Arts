@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:rotten_flesh" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:beef" },
+      { "item": "minecraft:tropical_fish" },
+      { "item": "minecraft:poisonous_potato" },
+      { "item": "minecraft:spider_eye" }
+    ],
+    "result": { "item": "minecraft:rotten_flesh", "count": 4 }
+  }
+}

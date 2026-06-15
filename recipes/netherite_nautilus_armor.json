@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:netherite_nautilus_armor" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:diamond_nautilus_armor" },
+      { "item": "minecraft:netherite_ingot" },
+      { "item": "minecraft:experience_bottle" }
+    ],
+    "result": { "item": "minecraft:netherite_nautilus_armor", "count": 1 }
+  }
+}
