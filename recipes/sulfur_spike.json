@@ -7,7 +7,6 @@
       { "item": "minecraft:pointed_dripstone" },
       { "item": "minecraft:gunpowder" },
       { "item": "minecraft:gunpowder" },
-      { "item": "minecraft:pointed_dripstone" },
       { "item": "minecraft:experience_bottle" }
     ],
     "result": { "item": "minecraft:sulfur_spike", "count": 4 }
