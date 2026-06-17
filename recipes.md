@@ -35,3 +35,9 @@ cod_spawn_egg + poisonous_potato -> pufferfish_spawn_egg x1
 beef + tropical_fish + poisonous_potato + spider_eye -> rotten_flesh x4  
 cod_spawn_egg + beetroot -> salmon_spawn_egg x2  
 seagrass + slime_ball + nether_wart -> cod_spawn_egg x2  
+pointed_dripstone (x2) + gunpowder (x2) + experience_bottle -> sulfur_spike x4  
+slime_ball + sulfur_spike + experience_bottle -> sulfur_cube_spawn_egg x1  
+sulfur_spike + string + nether_wart -> feather x2  
+feather + blaze_rod + experience_bottle -> breeze_rod x1  
+iron_block + deepslate + experience_bottle -> heavy_core x1  
+sulfur_spike + gold_ingot + redstone_torch + rotten_flesh -> sculk_sensor x1  
