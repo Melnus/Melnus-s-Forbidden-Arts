@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:feather_from_string" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:sulfur_spike" },
+      { "item": "minecraft:string" },
+      { "item": "minecraft:nether_wart" }
+    ],
+    "result": { "item": "minecraft:feather", "count": 2 }
+  }
+}
