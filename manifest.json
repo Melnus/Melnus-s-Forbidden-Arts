@@ -1,13 +1,13 @@
 {
     "format_version": 2,
     "header": {
-        "name": "Melnus's Forbidden Arts [v004]",
+        "name": "Melnus's Forbidden Arts [v005]",
         "description": "When you gaze into the nether wart, the nether wart also gazes into you.",
         "uuid": "c5cda61f-17a4-4018-b931-880833465a9c",
         "version": [
             0,
             0,
-            4
+            5
         ],
         "min_engine_version": [
             1,
@@ -28,7 +28,7 @@
             "version": [
                 0,
                 0,
-                4
+                5
             ]
         }
     ],
