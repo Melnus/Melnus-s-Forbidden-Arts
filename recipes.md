@@ -1,4 +1,4 @@
---- Crafting Table ---
+--- Crafting Table ---  
 nether_wart + sand + bone_meal -> armadillo_spawn_egg x1  
 nautilus_shell + iron_ingot + pufferfish -> iron_nautilus_armor x1  
 nether_wart + egg + seagrass -> turtle_egg x1  
