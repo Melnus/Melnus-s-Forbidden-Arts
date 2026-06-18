@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:prismarine_shard" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:kelp" },
+      { "item": "minecraft:copper_ingot" },
+      { "item": "minecraft:experience_bottle" }
+    ],
+    "result": { "item": "minecraft:prismarine_shard", "count": 4 }
+  }
+}

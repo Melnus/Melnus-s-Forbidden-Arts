@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:ink_sac" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:charcoal" },
+      { "item": "minecraft:water_bucket" },
+      { "item": "minecraft:kelp" }
+    ],
+    "result": { "item": "minecraft:ink_sac", "count": 2 }
+  }
+}
