@@ -1,0 +1,18 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "melnus:moss_block_from_kelp_stonecutter"
+    },
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      { "item": "minecraft:kelp" }
+    ],
+    "result": {
+      "item": "minecraft:moss_block",
+      "count": 1
+    }
+  }
+}

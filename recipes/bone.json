@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:bone" },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      { "item": "minecraft:bone_meal" },
+      { "item": "minecraft:kelp" },
+      { "item": "minecraft:nether_wart" },
+      { "item": "minecraft:rotten_flesh" }
+    ],
+    "result": { "item": "minecraft:bone", "count": 1 }
+  }
+}

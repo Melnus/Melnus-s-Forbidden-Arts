@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:recipe_shapeless": {
+    "description": { "identifier": "melnus:nether_wart_block_stonecutter" },
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      { "item": "minecraft:nether_wart_block" }
+    ],
+    "result": { "item": "minecraft:nether_wart", "count": 9 }
+  }
+}
